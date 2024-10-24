@@ -114,3 +114,8 @@ li.select2-results__option--highlighted[role="option"][aria-selected] {
 .query-columns select[multiple] {
   min-height: 200px;
 }
+
+li.select2-results__option--shift-key-mark, li.select2-results__option--shift-first {
+  background-color: #8bbfeb !important;
+  color: white;
+}
